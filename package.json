@@ -15,7 +15,7 @@
         "dateformat": "*",
         "base58-native": "*",
         "multi-hashing": "git://github.com/fancoder/node-multi-hashing.git",
-        "cryptonote-util": "https://github.com/xdn-project/node-cryptonote-util"
+        "cryptonote-util": "git://github.com/xdn-project/node-cryptonote-util"
     },
     "engines": {
         "node": ">=0.10"
